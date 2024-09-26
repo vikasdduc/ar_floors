@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">574545251322052</string>
+    <string name="facebook_client_token">7cd4d95f06e61d1526218e9aa8ac2099</string>
+<!--    <color name="colorPrimary">#1294c8</color>-->
+<!--    <color name="colorPrimaryDark">#1294c8</color>-->
+<!--    <color name="colorAccent">#FF4081</color>-->
+
+<!--    <color name="text_color">#555555</color>-->
+
+
+<!--    <color name="colorText">#FFFFFF</color>-->
+<!--    <color name="colorTextHint">#51d8c7</color>-->
+</resources>
